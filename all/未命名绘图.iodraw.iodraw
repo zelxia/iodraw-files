@@ -111,8 +111,14 @@
         <mxCell id="LsacCsz74qnDQu1_fmfM-17" value="零件模型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="-560" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsacCsz74qnDQu1_fmfM-20" target="LsacCsz74qnDQu1_fmfM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LsacCsz74qnDQu1_fmfM-20" value="利用ANSYS进行仿真分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="-430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-22" value="是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="-350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
