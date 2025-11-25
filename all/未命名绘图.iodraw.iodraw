@@ -43,7 +43,7 @@
         <mxCell id="nWVFPOlQoLAgPBENKY_J-12" value="传动结构" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nWVFPOlQoLAgPBENKY_J-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="nWVFPOlQoLAgPBENKY_J-13" value="货仓结构" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="-750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
