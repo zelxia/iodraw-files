@@ -55,7 +55,7 @@
         <mxCell id="LsacCsz74qnDQu1_fmfM-0" value="整体方案初步设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LsacCsz74qnDQu1_fmfM-2" value="整体方案初步设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LsacCsz74qnDQu1_fmfM-2" value="根据相应计算公式进行参数计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="-590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
