@@ -125,13 +125,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsacCsz74qnDQu1_fmfM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsacCsz74qnDQu1_fmfM-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="-250" as="targetPoint" />
+        <mxCell id="LsacCsz74qnDQu1_fmfM-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LsacCsz74qnDQu1_fmfM-24">
+          <mxGeometry x="0.0061" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsacCsz74qnDQu1_fmfM-22" target="LsacCsz74qnDQu1_fmfM-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LsacCsz74qnDQu1_fmfM-22" value="是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="-350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
