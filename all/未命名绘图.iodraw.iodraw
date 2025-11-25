@@ -55,8 +55,22 @@
         <mxCell id="LsacCsz74qnDQu1_fmfM-0" value="整体方案初步设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsacCsz74qnDQu1_fmfM-2" target="LsacCsz74qnDQu1_fmfM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LsacCsz74qnDQu1_fmfM-2" value="根据相应计算公式进行参数计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsacCsz74qnDQu1_fmfM-4" target="LsacCsz74qnDQu1_fmfM-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="-420" />
+              <mxPoint x="130" y="-560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsacCsz74qnDQu1_fmfM-4" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="-460" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
